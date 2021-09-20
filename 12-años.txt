@@ -1,0 +1,9 @@
+variable: forma de almacenar el valor de algo para usar más tarde. Se puede crear de 3 formas: var, let, const.
+string: tipo de dato en fomrato de texto definido entre comillas simples o dobles
+numbres: tipo de dato. cualquier número, ya sea positivo o negativo. No se envuelven en comillas.
+booleanos: concepto que alimenta el código binario. Siempre devuelve valor true o false.
+if: declaración que espera que la consola devuelva un valor booleano.
+for: expresión de bucle (loop). Se escribe for(){}. Dentro de los paréntesis van 3 cosas, todas separadas por ; : declaración de una variable; expresión condicional; incrementación de la variable.
+&&: "and". Operdor lógico. Devuelve true si ambas exPresiones son true. Si una o ambas expresiones son falsas, devolverá false.
+||: "or". Operdor lógico. Devuelve true si una o ambas expresiones son true. Si ambas son falsas, devolverá false.
+!: "not". Operador lógico. Devuelve el valor booleano opuesto de lo que se le pase. USAR PARÉNTESIS.
